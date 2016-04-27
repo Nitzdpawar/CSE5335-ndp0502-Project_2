@@ -15,7 +15,9 @@ Project is basically Citywise Information. it is single page application web pag
 On homepage of website, there is button "Get Info" in the header section.
 Click on that button.
 As per the project requirement, first 20 objects will come with slight inrval then for the next 20 object, the 
+
 ---------------------------------------------------------------------------------------------------
+
 a.	What aspect of the implementation did you find easy, if any, and why?
 ==================================================================================
 
@@ -25,6 +27,7 @@ SO it was easy for me to design the page and manage its stylesheets.
 I have learned a lot during Project-1 & from W3SCHOOL and other websites to understand the dynamic implementation of HTML page using jQuery. 
 It was easy to create dynamic <Div> (attributes) of HTML using jQuery and binding the data to it.
 Surprisingly AJAX call was very sweet, simple and short as compared to Nodejs & JSON.
+
 -------------------------------------------------------------------------------------------------------------
 
 b.	What aspect of the implementation did you find hard, if any, and why?
