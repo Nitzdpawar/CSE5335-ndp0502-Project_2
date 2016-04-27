@@ -55,6 +55,5 @@ JavaScript doesn't really have any good primitive for concurrency (although gene
 and the core, along most libraries in the ecosystem, just straight up expect you to use continuation-passing style, which leads to non-compositional code, codebases that 
 are difficult to reason about, and lots and lots of duplication and call-site specific glueing.
 
-	
-	--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
 	
